@@ -1,1 +1,1 @@
-# SkillRaace Machine Learnoing Internship SKMLI-142
+# SkillRaace Machine Learning Internship SKMLI-142
